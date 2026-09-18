@@ -1,0 +1,12 @@
+streamlit>=1.35.0
+ibm-watsonx-ai>=1.1.0
+PyMuPDF>=1.24.0
+networkx>=3.3
+matplotlib>=3.9.0
+python-dotenv>=1.0.0
+pytest>=8.2.0
+pytest-mock>=3.14.0
+SpeechRecognition>=3.10.0
+gtts>=2.5.1
+streamlit-audiorecorder>=0.0.4
+Pillow>=10.0.0
